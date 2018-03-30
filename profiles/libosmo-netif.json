@@ -1,0 +1,94 @@
+
+{
+  "Name":           "libosmo-netif",
+  "Title":          "libosmo-netif",
+  "SourceUrl":      "https://git.osmocom.org/libosmo-netif/",
+  "Git":            "git://git.osmocom.org/libosmo-netif",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/libosmo-netif/master",
+            "Date":           "2018-04-17",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.1.1",
+            "Installed":      "../input/libosmo-netif/0.1.1",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.1.0",
+            "Installed":      "../input/libosmo-netif/0.1.0",
+            "Date":           "2017-10-27",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.8",
+            "Installed":      "../input/libosmo-netif/0.0.8",
+            "Date":           "2017-10-17",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.6",
+            "Installed":      "../input/libosmo-netif/0.0.6",
+            "Date":           "2015-11-03",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.5",
+            "Installed":      "../input/libosmo-netif/0.0.5",
+            "Date":           "2015-08-23",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.4",
+            "Installed":      "../input/libosmo-netif/0.0.4",
+            "Date":           "2014-09-08",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.3",
+            "Installed":      "../input/libosmo-netif/0.0.3",
+            "Date":           "2014-05-22",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.2",
+            "Installed":      "../input/libosmo-netif/0.0.2",
+            "Date":           "2013-05-22",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.1",
+            "Installed":      "../input/libosmo-netif/0.0.1",
+            "Date":           "2012-02-23",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

@@ -1,0 +1,38 @@
+
+{
+  "Name":           "osmo-iuh",
+  "Title":          "osmo-iuh",
+  "SourceUrl":      "https://git.osmocom.org/osmo-iuh/",
+  "Git":            "git://git.osmocom.org/osmo-iuh",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/osmo-iuh/master",
+            "Date":           "2018-03-21",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.2.0",
+            "Installed":      "../input/osmo-iuh/0.2.0",
+            "Date":           "2017-10-27",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.1.0",
+            "Installed":      "../input/osmo-iuh/0.1.0",
+            "Date":           "2017-08-13",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

@@ -1,0 +1,78 @@
+
+{
+  "Name":           "osmo-bts",
+  "Title":          "osmo-bts",
+  "SourceUrl":      "https://git.osmocom.org/osmo-bts/",
+  "Git":            "git://git.osmocom.org/osmo-bts",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/osmo-bts/master",
+            "Date":           "2018-04-19",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.7.0",
+            "Installed":      "../input/osmo-bts/0.7.0",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.6.0",
+            "Installed":      "../input/osmo-bts/0.6.0",
+            "Date":           "2017-08-25",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.4.0",
+            "Installed":      "../input/osmo-bts/0.4.0",
+            "Date":           "2015-09-22",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.3.0",
+            "Installed":      "../input/osmo-bts/0.3.0",
+            "Date":           "2013-06-20",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.2.0",
+            "Installed":      "../input/osmo-bts/0.2.0",
+            "Date":           "2013-03-17",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.1.0",
+            "Installed":      "../input/osmo-bts/0.1.0",
+            "Date":           "2012-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.1",
+            "Installed":      "../input/osmo-bts/0.0.1",
+            "Date":           "2011-09-07",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

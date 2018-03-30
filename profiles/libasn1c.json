@@ -1,0 +1,30 @@
+
+{
+  "Name":           "libasn1c",
+  "Title":          "libasn1c",
+  "SourceUrl":      "https://git.osmocom.org/libasn1c/",
+  "Git":            "git://git.osmocom.org/libasn1c",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/libasn1c/master",
+            "Date":           "2018-03-05",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.9.28",
+            "Installed":      "../input/libasn1c/0.9.28",
+            "Date":           "2017-10-27",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

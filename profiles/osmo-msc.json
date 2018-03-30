@@ -1,0 +1,54 @@
+
+{
+  "Name":           "osmo-msc",
+  "Title":          "osmo-msc",
+  "SourceUrl":      "https://git.osmocom.org/osmo-msc/",
+  "Git":            "git://git.osmocom.org/osmo-msc",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/osmo-msc/master",
+            "Date":           "2018-04-17",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "1.1.2",
+            "Installed":      "../input/osmo-msc/1.1.2",
+            "Date":           "2017-10-29",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "1.1.1",
+            "Installed":      "../input/osmo-msc/1.1.1",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "1.1.0",
+            "Installed":      "../input/osmo-msc/1.1.0",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "1.0.1",
+            "Installed":      "../input/osmo-msc/1.0.1",
+            "Date":           "2017-06-22",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

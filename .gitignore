@@ -1,0 +1,6 @@
+build/*
+!build/abi_dump
+build/abi_dump/*/master/
+deploy/
+deps/
+input/

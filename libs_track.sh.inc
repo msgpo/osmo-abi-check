@@ -1,0 +1,41 @@
+LIBRARIES_libosmocore="
+        libosmocore
+        libosmoctrl
+        libosmogb
+        libosmogsm
+        libosmosim
+        libosmocodec
+        libosmovty
+        "
+LIBRARIES_libosmo_abis="libosmoabis libosmotrau"
+LIBRARIES_libasn1c="libasn1c"
+LIBRARIES_osmo_iuh="libosmo-ranap"
+LIBRARIES_osmo_ggsn="libgtp"
+LIBRARIES_libosmo_sccp="libosmo-sigtran"
+LIBRARIES_osmo_mgw="libosmo-mgcp-client"
+LIBRARIES_libosmo_netif="libosmonetif"
+LIBRARIES_libsmpp34="libsmpp34"
+
+LIBRARIES="
+$LIBRARIES_libosmocore
+$LIBRARIES_libosmo_abis
+$LIBRARIES_libasn1c
+$LIBRARIES_osmo_iuh
+$LIBRARIES_osmo_ggsn
+$LIBRARIES_libosmo_abis
+$LIBRARIES_libosmo_sccp
+$LIBRARIES_osmo_mgw
+$LIBRARIES_libosmo_netif
+$LIBRARIES_libsmpp34
+"
+
+VERSION_libosmocore="${VERSION_libosmocore:-master}"
+VERSION_libosmo_abis="${VERSION_libosmo_abis:-master}"
+VERSION_libasn1c="${VERSION_libasn1c:-master}"
+VERSION_osmo_iuh="${VERSION_osmo_iuh:-master}"
+VERSION_osmo_ggsn="${VERSION_osmo_ggsn:-master}"
+VERSION_libosmo_abis="${VERSION_libosmo_abis:-master}"
+VERSION_libosmo_sccp="${VERSION_libosmo_sccp:-master}"
+VERSION_osmo_mgw="${VERSION_osmo_mgw:-master}"
+VERSION_libosmo_netif="${VERSION_libosmo_netif:-master}"
+VERSION_libsmpp34="${VERSION_libsmpp34:-master}"

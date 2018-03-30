@@ -1,0 +1,38 @@
+
+{
+  "Name":           "osmo-trx",
+  "Title":          "osmo-trx",
+  "SourceUrl":      "https://git.osmocom.org/osmo-trx/",
+  "Git":            "git://git.osmocom.org/osmo-trx",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/osmo-trx/master",
+            "Date":           "2018-04-16",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.3.0",
+            "Installed":      "../input/osmo-trx/0.3.0",
+            "Date":           "2018-03-05",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.2.0",
+            "Installed":      "../input/osmo-trx/0.2.0",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

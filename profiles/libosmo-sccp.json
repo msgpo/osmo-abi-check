@@ -1,0 +1,94 @@
+
+{
+  "Name":           "libosmo-sccp",
+  "Title":          "libosmo-sccp",
+  "SourceUrl":      "https://git.osmocom.org/libosmo-sccp/",
+  "Git":            "git://git.osmocom.org/libosmo-sccp",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/libosmo-sccp/master",
+            "Date":           "2018-04-17",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "0.8.1",
+            "Installed":      "../input/libosmo-sccp/0.8.1",
+            "Date":           "2017-10-28",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.8.0",
+            "Installed":      "../input/libosmo-sccp/0.8.0",
+            "Date":           "2017-10-27",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.7.0",
+            "Installed":      "../input/libosmo-sccp/0.7.0",
+            "Date":           "2015-08-01",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.6",
+            "Installed":      "../input/libosmo-sccp/0.0.6",
+            "Date":           "2011-06-04",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.5",
+            "Installed":      "../input/libosmo-sccp/0.0.5",
+            "Date":           "2011-03-23",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.4",
+            "Installed":      "../input/libosmo-sccp/0.0.4",
+            "Date":           "2011-02-25",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.3",
+            "Installed":      "../input/libosmo-sccp/0.0.3",
+            "Date":           "2010-08-25",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.2",
+            "Installed":      "../input/libosmo-sccp/0.0.2",
+            "Date":           "2010-08-03",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "0.0.1",
+            "Installed":      "../input/libosmo-sccp/0.0.1",
+            "Date":           "2010-07-30",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+

@@ -1,0 +1,46 @@
+
+{
+  "Name":           "libsmpp34",
+  "Title":          "libsmpp34",
+  "SourceUrl":      "https://git.osmocom.org/libsmpp34/",
+  "Git":            "git://git.osmocom.org/libsmpp34",
+  "Maintainer":     "Pau Espin Pedrol",
+  "MaintainerUrl":  "http://pespin.espeweb.net/~pespin/tmp/osmocom/",
+
+  "Versions": [
+          {
+            "Number":         "master",
+            "Installed":      "../input/libsmpp34/master",
+            "Date":           "2018-03-05",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+          }, {
+            "Number":         "1.12.0",
+            "Installed":      "../input/libsmpp34/1.12.0",
+            "Date":           "2017-08-14",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "1.12",
+            "Installed":      "../input/libsmpp34/1.12",
+            "Date":           "2017-08-14",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }, {
+            "Number":         "1.10",
+            "Installed":      "../input/libsmpp34/1.10",
+            "Date":           "2012-11-07",
+            "HeadersDiff":    "Off",
+            "PkgDiff":        "Off",
+            "ABIView":        "Off",
+            "ABIDiff":        "Off"
+        }
+  ]
+}
+
